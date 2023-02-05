@@ -56,5 +56,6 @@ public class Main extends ApplicationAdapter {
         channel2.removeAllEffects();
         sound1.dispose();
         sound2.dispose();
+        sound3.dispose();
     }
 }
